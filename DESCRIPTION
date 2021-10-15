@@ -1,0 +1,13 @@
+Package: bfun
+Title: Personal R Package of Botan Ağın
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Botan",
+           family = "Ağın",
+           role = c("aut", "cre"),
+           email = "aginbotan@gmail.com")
+Description: The package contains some useless/usefull custom functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
