@@ -1,3 +1,18 @@
+#' Chop strings by given length
+#'
+#' str_chop() lets you chop strings into pieces by fixed length.
+#'
+#' @param string A string in vector or list format.
+#' @param length Length of string pieces
+#'
+#' @return A list.
+#' @export
+#'
+#' @examples
+#' x <- paste(letters, collapse = "")
+#' str_chop(x)
+#' str_chop(x, 2)
+#' str_chop(x, 6)
 str_chop <- function(string, length = 1) {
   if (missing(string)) {
     rlang::abort("Argument \"string\" is missing, with no default.")
