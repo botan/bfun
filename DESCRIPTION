@@ -16,4 +16,7 @@ BugReports: https://github.com/botan/bfun/issues
 Imports: 
     cli,
     pak,
+    purrr,
+    rlang,
+    stringi,
     utils
