@@ -2,6 +2,7 @@
 
 export("%>%")
 export("%out%")
+export(colourise)
 export(lib_update)
 export(str_chop)
 importFrom(magrittr,"%>%")
