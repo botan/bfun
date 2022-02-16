@@ -19,6 +19,8 @@ Imports:
     magrittr,
     pak,
     purrr,
+    readxl,
     rlang,
+    snakecase,
     stringi,
     utils
