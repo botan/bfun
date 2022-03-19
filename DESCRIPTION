@@ -16,6 +16,7 @@ BugReports: https://github.com/botan/bfun/issues
 Imports: 
     cli,
     glue,
+    janitor,
     magrittr,
     pak,
     purrr,
