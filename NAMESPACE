@@ -3,6 +3,8 @@
 export("%>%")
 export("%out%")
 export(colourise)
+export(last)
 export(lib_update)
+export(read_excel_all)
 export(str_chop)
 importFrom(magrittr,"%>%")
