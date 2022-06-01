@@ -24,4 +24,5 @@ Imports:
     rlang,
     snakecase,
     stringi,
+    stringr,
     utils
